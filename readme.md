@@ -1,5 +1,5 @@
 # Spring MVC Part.1
-스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
+스프링 MVC - 백엔드 웹 개발 핵심 기술
 <br>
 ## Section
 1. 웹 애플리케이션의 이해
